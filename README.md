@@ -53,6 +53,10 @@ heavyskill/
 
 无外部依赖，纯 Claude Code Agent tool 实现。
 
+## 鸣谢
+
+感谢向阳乔木大哥的启发和指导。
+
 ## License
 
 MIT
